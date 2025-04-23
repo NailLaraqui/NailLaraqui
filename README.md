@@ -17,10 +17,10 @@ I love solving complex problems, building efficient tools and more generally cod
 
 ## 🛠️ My Skills
 
-**Languages**: Java, Python, HTML, CSS, Javascript/Typescript, C#, SQL, Scala, C
-**Frameworks/Libraries**: JavaFX, NumPy, Matplotlib, Angular, ASP.NET
-**Tools**: Git, Figma, VS Code, IntelliJ, Visual Studio
-**OS**: Windows (Linux coming soon 🐧)
+- **Languages**: Java, Python, HTML, CSS, Javascript/Typescript, C#, SQL, Scala, C
+- **Frameworks/Libraries**: JavaFX, NumPy, Matplotlib, Angular, ASP.NET
+- **Tools**: Git, Figma, VS Code, IntelliJ, Visual Studio
+- **OS**: Windows (Linux coming soon 🐧)
 
 ---
 
